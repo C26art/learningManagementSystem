@@ -3,7 +3,7 @@ import User from '../models/userModel.js';
 import Stripe from 'stripe';
 import Purchase from '../models/purchaseModel.js';
 import Course from '../models/courseModel.js';
-import dotenv from 'dotenv'; 
+import dotenv from 'dotenv';
 
 dotenv.config();
 
